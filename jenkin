@@ -2,7 +2,11 @@ hi this is 1st code{
 
 
 } this is bye code
+<<<<<<< Updated upstream
 hi this is 3rd code{
+=======
+hi this is 2nd code{
+>>>>>>> Stashed changes
 
 
 } this is bye code
